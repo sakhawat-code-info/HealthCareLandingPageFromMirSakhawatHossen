@@ -6,7 +6,7 @@ import { PiCertificateBold } from "react-icons/pi";
 const ComprehensiveCare = () => {
     return (
         <div className="container mx-auto my-10">
-            <div className="grid grid-cols-12 gap-2 h-[323px]">
+            <div className="grid grid-cols-12 gap-2">
                 {/* left side  */}
                 <div className="col-span-2 border-2 border-[#02004333] text-[#020043] rounded-xl p-7">
                     <h1 className="text-4xl font-semibold mb-4">90%</h1>
