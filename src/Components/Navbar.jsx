@@ -1,4 +1,5 @@
-
+import logoLight from "../assets/logolight.png"
+import logoDark from "../assets/logodark.png"
 import { MdArrowOutward } from "react-icons/md";
 
 const Navbar = () => {
@@ -30,7 +31,9 @@ const Navbar = () => {
                         <li><a>About us</a></li>
                     </ul>
                 </div>
-                <a className="btn btn-ghost text-xl">DOC+</a>
+                <a className="btn btn-ghost text-xl">
+                    <img src={logoDark} alt="" />
+                </a>
             </div>
             <div className="navbar-center hidden lg:flex">
                 <ul className="menu menu-horizontal px-1 text-[#343268] text-xs">
