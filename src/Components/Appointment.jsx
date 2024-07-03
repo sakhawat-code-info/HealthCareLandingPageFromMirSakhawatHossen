@@ -9,7 +9,8 @@ const Appointment = () => {
                 <img src={bgImage} alt="Banner Image" className="absolute inset-0 w-full h-full object-cover rounded-3xl " />
 
                 <div className="min-h-[477px] relative z-50 h-full  text-white px-[60px] py-[107px] bg-gradient-to-r from-[#020043]  to-[#0200434D] space-y-10 rounded-3xl">
-                    <h2 className="sm:text-4xl text-7xl font-bold mb-6  ">Get Your <br />
+                    <h2 className="text-4xl font-semibold mb-6 leading-relaxed">
+                        Get Your <br />
                         First Appointment <br />
                         at 50% Off!
                     </h2>
