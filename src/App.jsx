@@ -1,6 +1,7 @@
 
 import './App.css'
 import Banner from './Components/Banner'
+import ComprehensiveCare from './Components/ComprehensiveCare'
 
 function App() {
 
@@ -9,7 +10,7 @@ function App() {
     <>
       <div>
         <Banner></Banner>
-        <p>body</p>
+        <ComprehensiveCare></ComprehensiveCare>
       </div>
 
     </>
