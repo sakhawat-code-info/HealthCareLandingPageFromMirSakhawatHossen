@@ -6,7 +6,7 @@ import { Outlet } from "react-router-dom";
 const Root = () => {
 
     return (
-        <div>
+        <div className=" max-w-[1300px] bg-[#02004307] mx-auto pt-3">
             <div className=" max-w-[1161px] lg:w-[90%] w-[98%] mx-auto font-inter">
                 <Navbar />
 

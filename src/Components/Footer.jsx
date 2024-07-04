@@ -5,7 +5,7 @@ const Footer = () => {
     return (
         <div className='bg-[rgb(2,0,67)]'>
             <footer className="max-w-[1161px] container mx-auto font-sans tracking-wide py-[100px]">
-                <div className="py-14 px-6 sm:px-10">
+                <div className="py-8 px-6 sm:px-10">
                     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-8">
 
                         <div className="lg:col-span-2 space-y-5">

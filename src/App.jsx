@@ -13,7 +13,7 @@ function App() {
 
   return (
     <>
-      <div>
+      <div >
         <Banner></Banner>
         <ComprehensiveCare></ComprehensiveCare>
         <OurMission></OurMission>

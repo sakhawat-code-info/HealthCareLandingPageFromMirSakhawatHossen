@@ -12,7 +12,7 @@ const Service = () => {
                     <button className="px-6 py-2 border border-[#343268CC] bg-[#FFFFF5] rounded-full">Service</button>
                     <h3 className="text-4xl font-semibold pr-24">Empowering Health, Enriching Lives</h3>
                     <p className="mt-4 text-sm">We are committed to providing high-quality, compassionate care to every patient we serve. Whatever your healthcare needs may be, you can trust us to be your partner in health and wellness.</p>
-                    <a href="#_" className="inline-flex items-center justify-center w-full p-2  mt-2  text-sm bg-[#FFC637] rounded-md  sm:w-auto sm:mb-0" data-primary="green-400" data-rounded="rounded-2xl" data-primary-reset="{}">
+                    <a href="#_" className="inline-flex items-center justify-center w-full px-7 py-3  mt-6  text-sm bg-[#FFC637] rounded-md  sm:w-auto sm:mb-0" data-primary="green-400" data-rounded="rounded-2xl" data-primary-reset="{}">
                         Appointment
                         <MdArrowOutward className="ml-3 size-5" />
                     </a>
@@ -23,8 +23,8 @@ const Service = () => {
 
                     <div className='w-[321px] rounded-2xl bg-[#343268CC] absolute left-6 bottom-6 px-4 py-4 text-white flex justify-end items-end'>
                         <div className=''>
-                            <h3 className='mb-4 text-2xl'>Advanced Technology</h3>
-                            <p className='text-sm pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
+                            <h3 className='mb-4 text-xl'>Advanced Technology</h3>
+                            <p className='text-sm font-xs pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
                         </div>
                         <div className='bg-[#FFC637] rounded-full p-2'>
                             <MdArrowOutward size={20} />
@@ -38,8 +38,8 @@ const Service = () => {
 
                     <div className='w-[321px] rounded-2xl bg-[#343268CC] absolute left-6 bottom-6 px-4 py-4 text-white flex justify-end items-end'>
                         <div className=''>
-                            <h3 className='mb-4 text-2xl'>Online Doctor Meet</h3>
-                            <p className='text-sm pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
+                            <h3 className='mb-4 text-xl'>Online Doctor Meet</h3>
+                            <p className='text-sm font-xs pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
                         </div>
                         <div className='bg-[#FFC637] rounded-full p-2'>
                             <MdArrowOutward size={20} />
@@ -53,8 +53,8 @@ const Service = () => {
 
                     <div className='w-[321px] rounded-2xl bg-[#343268CC] absolute left-6 bottom-6 px-4 py-4 text-white flex justify-end items-end'>
                         <div className=''>
-                            <h3 className='mb-4 text-2xl'>Consultancy your health</h3>
-                            <p className='text-sm pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
+                            <h3 className='mb-4 text-xl'>Consultancy your health</h3>
+                            <p className='text-sm font-xs pr-7 mb-7'>Our surgeons are trained in the latest robotic surgical techniques, which allow for greater precision.</p>
                         </div>
                         <div className='bg-[#FFC637] rounded-full p-2'>
                             <MdArrowOutward size={20} />

@@ -20,7 +20,7 @@ const ComprehensiveCare = () => {
                 </div>
                 {/* middle  */}
                 <div className="col-span-8 ">
-                    <div className="bg-white dark:bg-gray-900">
+                    <div className=" dark:bg-gray-900">
                         <div className=" dark:text-white">
                             <div className="text-center px-10">
                                 <h2 className="font-bold text-5xl">Comprehensive Care for Every Patient</h2>

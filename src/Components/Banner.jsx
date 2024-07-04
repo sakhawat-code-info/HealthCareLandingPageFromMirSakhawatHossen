@@ -1,5 +1,6 @@
 import bannerImg from '../assets/Rectangle 5.png'
 
+
 const Banner = () => {
     return (
         <div className="my-10 ">
