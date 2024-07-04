@@ -10,7 +10,7 @@ const OurMission = () => {
                     <button className="px-6 py-2 border border-[#343268CC] bg-[#FFFFF5] rounded-full">Who we are</button>
                     <h3 className="text-4xl font-semibold pr-24">We Help To Get Soultions.</h3>
                     <p className="mt-4 text-sm">We are proud to be a trusted healthcare provider in our community, and we look forward to serving you and your family with excellence, integrity, and compassion. Your health is our priority, and we are here for you every step of the way. We believe in treating each patient with dignity, respect, and empathy, ensuring that they receive the attention and care they deserve.</p>
-                    <a href="#_" className="inline-flex items-center justify-center w-full p-2  mt-2  text-sm bg-[#FFC637] rounded-md  sm:w-auto sm:mb-0" data-primary="green-400" data-rounded="rounded-2xl" data-primary-reset="{}">
+                    <a href="#_" className="inline-flex items-center justify-center w-full px-7 py-3  mt-2  text-sm bg-[#FFC637] rounded-md  sm:w-auto sm:mb-0" data-primary="green-400" data-rounded="rounded-2xl" data-primary-reset="{}">
                         Learn more
                         <MdArrowOutward className="ml-3 size-5" />
                     </a>
